@@ -34,4 +34,4 @@ DemoWebShop_Testing_Assignment/
 ## Notes
 - Uses WebDriverManager to manage ChromeDriver.
 - Test data in `testdata.csv`.
-- Do NOT place real credentials here.
+
