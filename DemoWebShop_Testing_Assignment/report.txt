@@ -1,0 +1,258 @@
+
+--- Run at: 2025-11-16T18:46:49.326787100 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: 
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:47:02.177584300 ---
+Selected Category: BOOKS
+Product 1 Selected: Health Book | 10.00
+Product 2 Selected: Simple Computer | 800.00
+Cart Counter Shows: (2)
+All products validated successfully: [Health Book, Simple Computer]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:47:16.810400600 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:47:36.291326200 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: DIGITAL DOWNLOADS
+Product count in selected category: 3
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:47:50.531604900 ---
+Selected Category: BOOKS
+Product 1 Selected: Simple Computer | 800.00
+Product 2 Selected: Health Book | 10.00
+Cart Counter Shows: (2)
+All products validated successfully: [Simple Computer, Health Book]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:48:05.615908400 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:48:22.990189400 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: 
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:48:36.147639800 ---
+Selected Category: BOOKS
+Product 1 Selected: Simple Computer | 800.00
+Product 2 Selected: Health Book | 10.00
+Cart Counter Shows: (2)
+All products validated successfully: [Simple Computer, Health Book]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:48:51.430067900 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:49:08.735136400 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: 
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:49:21.680786 ---
+Selected Category: BOOKS
+Product 1 Selected: Health Book | 10.00
+Product 2 Selected: Simple Computer | 800.00
+Cart Counter Shows: (2)
+All products validated successfully: [Health Book, Simple Computer]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:49:36.478131500 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:50:37.326448300 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: COMPUTERS
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:50:51.087473900 ---
+Selected Category: BOOKS
+Product 1 Selected: Simple Computer | 800.00
+Product 2 Selected: Computing and Internet | 10.00
+Cart Counter Shows: (2)
+All products validated successfully: [Simple Computer, Computing and Internet]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:51:06.322682200 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:51:24.418000800 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: 
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:51:36.572458800 ---
+Selected Category: BOOKS
+Product 1 Selected: Simple Computer | 800.00
+Product 2 Selected: Simple Computer | 800.00
+Cart Counter Shows: (2)
+All products validated successfully: [Simple Computer, Simple Computer]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:51:52.196252400 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:52:09.000942200 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: JEWELRY
+Product count in selected category: 5
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:52:22.475429900 ---
+Selected Category: BOOKS
+Product 1 Selected: Simple Computer | 800.00
+Product 2 Selected: Health Book | 10.00
+Cart Counter Shows: (2)
+All products validated successfully: [Simple Computer, Health Book]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:52:41.910634100 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:56:06.345843 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T18:59:35.209934200 ---
+Selected Category: BOOKS
+Product 1 Selected: Simple Computer | 800.00
+Product 2 Selected: Simple Computer | 800.00
+Cart Counter Shows: (2)
+All products validated successfully: [Simple Computer, Simple Computer]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:05:21.386300700 ---
+Selected Category: BOOKS
+Product 1 Selected: Computing and Internet | 10.00
+Product 2 Selected: Health Book | 10.00
+Cart Counter Shows: (2)
+All products validated successfully: [Computing and Internet, Health Book]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:06:05.570639600 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:06:33.198026700 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: GIFT CARDS
+Product count in selected category: 4
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:07:56.670687100 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: 
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:08:09.258904200 ---
+Selected Category: BOOKS
+Product 1 Selected: Health Book | 10.00
+Product 2 Selected: Simple Computer | 800.00
+Cart Counter Shows: (2)
+All products validated successfully: [Health Book, Simple Computer]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:08:26.625161500 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:08:43.128351400 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: 
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:08:55.554328900 ---
+Selected Category: BOOKS
+Product 1 Selected: Health Book | 10.00
+Product 2 Selected: Simple Computer | 800.00
+Cart Counter Shows: (2)
+All products validated successfully: [Health Book, Simple Computer]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:09:11.681607 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:09:29.469758 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: 
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:09:41.986881400 ---
+Selected Category: BOOKS
+Product 1 Selected: Computing and Internet | 10.00
+Product 2 Selected: Simple Computer | 800.00
+Cart Counter Shows: (2)
+All products validated successfully: [Computing and Internet, Simple Computer]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:09:58.697609 ---
+Captured registration error: First name is required.
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:10:15.903458900 ---
+Detected categories: [BOOKS, COMPUTERS, , , , ELECTRONICS, , , APPAREL & SHOES, DIGITAL DOWNLOADS, JEWELRY, GIFT CARDS]
+Selected category: BOOKS
+Product count in selected category: 6
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:10:30.422298400 ---
+Selected Category: BOOKS
+Product 1 Selected: Simple Computer | 800.00
+Product 2 Selected: Computing and Internet | 10.00
+Cart Counter Shows: (2)
+All products validated successfully: [Simple Computer, Computing and Internet]
+--- End of Run ---
+
+
+--- Run at: 2025-11-16T19:10:48.602533400 ---
+Captured registration error: First name is required.
+--- End of Run ---
+

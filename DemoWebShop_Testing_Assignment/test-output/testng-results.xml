@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-16T19:10:14 IST" name="DemoWebShop Suite" finished-at="2025-11-16T19:10:55 IST" duration-ms="41019">
+    <groups>
+    </groups>
+    <test started-at="2025-11-16T19:10:14 IST" name="E2E Tests" finished-at="2025-11-16T19:10:55 IST" duration-ms="41019">
+      <class name="tests.RegistrationNegativeTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.RegistrationNegativeTest@4fb61f4a]" started-at="2025-11-16T19:10:48 IST" name="beforeClass" finished-at="2025-11-16T19:10:48 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.RegistrationNegativeTest@4fb61f4a]" started-at="2025-11-16T19:10:48 IST" name="setup" finished-at="2025-11-16T19:10:50 IST" duration-ms="1628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="negativeRegistrationMissingField()[pri:3, instance:tests.RegistrationNegativeTest@4fb61f4a]" started-at="2025-11-16T19:10:50 IST" name="negativeRegistrationMissingField" finished-at="2025-11-16T19:10:55 IST" duration-ms="5042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negativeRegistrationMissingField -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.RegistrationNegativeTest@4fb61f4a]" started-at="2025-11-16T19:10:55 IST" name="tearDown" finished-at="2025-11-16T19:10:55 IST" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.RegistrationNegativeTest@4fb61f4a]" started-at="2025-11-16T19:10:55 IST" name="afterClass" finished-at="2025-11-16T19:10:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.RegistrationNegativeTest -->
+      <class name="tests.CategoryTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.CategoryTest@6356695f]" started-at="2025-11-16T19:10:14 IST" name="beforeClass" finished-at="2025-11-16T19:10:15 IST" duration-ms="1007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.CategoryTest@6356695f]" started-at="2025-11-16T19:10:15 IST" name="setup" finished-at="2025-11-16T19:10:18 IST" duration-ms="2855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="detectAndSelectCategory()[pri:1, instance:tests.CategoryTest@6356695f]" started-at="2025-11-16T19:10:18 IST" name="detectAndSelectCategory" finished-at="2025-11-16T19:10:29 IST" duration-ms="10676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectAndSelectCategory -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.CategoryTest@6356695f]" started-at="2025-11-16T19:10:29 IST" name="tearDown" finished-at="2025-11-16T19:10:30 IST" duration-ms="861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.CategoryTest@6356695f]" started-at="2025-11-16T19:10:30 IST" name="afterClass" finished-at="2025-11-16T19:10:30 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.CategoryTest -->
+      <class name="tests.ProductAndCartTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.ProductAndCartTest@3e58a80e]" started-at="2025-11-16T19:10:30 IST" name="beforeClass" finished-at="2025-11-16T19:10:30 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.ProductAndCartTest@3e58a80e]" started-at="2025-11-16T19:10:30 IST" name="setup" finished-at="2025-11-16T19:10:31 IST" duration-ms="1505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="selectProductsAddToCartAndValidate()[pri:2, instance:tests.ProductAndCartTest@3e58a80e]" started-at="2025-11-16T19:10:31 IST" name="selectProductsAddToCartAndValidate" finished-at="2025-11-16T19:10:47 IST" duration-ms="15929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProductsAddToCartAndValidate -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ProductAndCartTest@3e58a80e]" started-at="2025-11-16T19:10:47 IST" name="tearDown" finished-at="2025-11-16T19:10:48 IST" duration-ms="653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.ProductAndCartTest@3e58a80e]" started-at="2025-11-16T19:10:48 IST" name="afterClass" finished-at="2025-11-16T19:10:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.ProductAndCartTest -->
+    </test> <!-- E2E Tests -->
+  </suite> <!-- DemoWebShop Suite -->
+</testng-results>
