@@ -35,3 +35,4 @@ DemoWebShop_Testing_Assignment/
 - Uses WebDriverManager to manage ChromeDriver.
 - Test data in `testdata.csv`.
 
+Updated for GitHub Actions test
