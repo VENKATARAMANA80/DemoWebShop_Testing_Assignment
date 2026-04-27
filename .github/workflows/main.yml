@@ -1,7 +1,8 @@
 name: Selenium Tests CI
+
 on:
   push:
-    branches: [ "main", "master" ]
+    branches: [ "master" ]
 
 jobs:
   test:
@@ -18,7 +19,7 @@ jobs:
         java-version: '17'
 
     - name: Build Project
-      run: mvn clean install -DskipTests
+      run: cd DemoWebShop_Testing_Assignment && mvn clean install -DskipTests
 
-    - name: Run Selenium Tests
-      run: mvn test
+    - name: Run Tests
+      run: cd DemoWebShop_Testing_Assignment && mvn test
